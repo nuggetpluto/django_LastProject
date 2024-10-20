@@ -4,46 +4,62 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccd84b02-ef1d-4972-9222-1c74398fc527" name="Changes" comment="Модели баз данных в Django.">
+    <list default="true" id="ccd84b02-ef1d-4972-9222-1c74398fc527" name="Changes" comment="QuerySet запросы в базу данных">
+      <change afterPath="$PROJECT_DIR$/myshop/task1/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/task1/templates/fifth_task/registration_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/task1/templates/fourth_task/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/task1/templates/fourth_task/games.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/task1/templates/fourth_task/platform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myshop/task1/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myshop/task1/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/task1/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/myshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/myshop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myshop/task1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/myshop/task1/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nuggetpluto"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nuggetpluto&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nuggetpluto/django_LastProject.git",
-    "accountId": "c296df08-4b9d-4b0e-b6fa-7be5415b41a8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nuggetpluto/django_LastProject.git&quot;,
+    &quot;accountId&quot;: &quot;c296df08-4b9d-4b0e-b6fa-7be5415b41a8&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2neE9KYa1Py6m8KogGtz9VtE4v2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Django_last_module_Urban" />
@@ -92,11 +108,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729325766108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="QuerySet запросы в базу данных">
+      <option name="closed" value="true" />
+      <created>1729416368256</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729416368256</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Модели баз данных в Django." />
-    <option name="LAST_COMMIT_MESSAGE" value="Модели баз данных в Django." />
+    <MESSAGE value="QuerySet запросы в базу данных" />
+    <option name="LAST_COMMIT_MESSAGE" value="QuerySet запросы в базу данных" />
   </component>
 </project>
